@@ -1,2 +1,1 @@
-This is CRUD based application. Using this application you can add several users. <br>
-This is MERN stack based application
+This is a MERN stack application based on CRUD operation. Here you can create database,read , update and delete records. 
